@@ -7,7 +7,7 @@ for guys. This is backend part.
 
 # How to install
 For installation you need to use an integrated development environment for Java 
-programming language (for example IntelliJ IDEA).We use Spring Boot framework.
+programming language (for example IntelliJ IDEA). I use Spring Boot framework.
 
 # How to use
-To use, you simply run the code on your laptop.
+To use you simply run the code on your laptop.
