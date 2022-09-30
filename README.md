@@ -1,7 +1,7 @@
-# Engineering_Project_Backend
+# Backend Engineering Project
 
 # What is it
-Engineering_Project_Backend is an educational project in university
+Backend Engineering Project is an educational project in university
 to design an IT system to manage the study holiday organization service
 for guys. This is backend part.
 
