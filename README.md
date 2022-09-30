@@ -2,7 +2,7 @@
 
 # What is it
 Backend Engineering Project is an educational university project
-to design an computer system to manage the study holiday organization service
+to design a computer system to manage the study holiday organization service
 for guys. This is backend part.
 
 # How to install
