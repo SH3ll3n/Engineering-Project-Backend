@@ -6,7 +6,7 @@ to design a computer system to manage the study holiday organization service
 for guys. This is backend part.
 
 # How to install
-For installation you need to use an integrated development environment for the Java 
+For installation you need to use an integrated development environment for Java 
 programming language (for example IntelliJ IDEA).We use Spring Boot framework.
 
 # How to use
